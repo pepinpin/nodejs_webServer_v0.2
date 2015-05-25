@@ -1,0 +1,29 @@
+{
+  "name": "WwWaiter",
+  "version": "0.2.0",
+  "description": "A simple webserver written in coffeeScript,",
+  "descriptionSequel": "without any external libs and without the use of the 'http' library",
+  "main": "serverClassified.coffee",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepinpin/nodejs_webServer_v0.2"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "http",
+    "coffeescript"
+  ],
+  "author": "PE Pinsolle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepinpin/nodejs_webServer_v0.2/issues"
+  },
+  "homepage": "https://github.com/pepinpin/nodejs_webServer_v0.2"
+}

@@ -1,0 +1,7 @@
+{
+	"webroot": "www",
+	"defaultIndex": "index.html",
+	"port": "8888",
+	"html_Footer_onError": "WwWaiter WebServer... If you see this, you've ran into an error !!",
+	"debug": false
+}
