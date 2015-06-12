@@ -11,8 +11,6 @@ It can :
 - handle HEAD and GET requests method
 - handle iframes
 
-It can't :
-- run PHP !
 
 ## To Test
 
