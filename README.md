@@ -7,9 +7,9 @@ A small nodejs webserver, written in CoffeeScript
 - **this is just the result of an exercise**
 
 It can :
-- serve static files
-- handle HEAD and GET requests method
-- handle iframes
+- serves static files
+- handles HEAD and GET requests method
+- handles iframes
 
 
 ## To Test
